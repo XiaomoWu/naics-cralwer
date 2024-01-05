@@ -26,9 +26,7 @@ df = read_feather('results/naics_complete.feather')
 ```
 
 ## How I Organize the Result
-<div style="display: flex; justify-content: center;">
-    <img src="images/img-2.png" alt="Preview of the results" width="400">
-</div>
+<img src="images/img-2.png" alt="Preview of the results" width="500">
 
 As you can see, there're four columns:
 
